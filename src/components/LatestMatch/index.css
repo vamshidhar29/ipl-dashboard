@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.latest_match-bg-container {
+  background-color: #1e293b;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.latest-match-left-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.competing-team-logo {
+  height: 100px;
+  width: 100px;
+}
+
+.latest-match-right-container {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.heads-latest-match {
+  padding: 0px;
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.para-latest-match {
+  padding: 0px;
+  margin: 0px;
+}

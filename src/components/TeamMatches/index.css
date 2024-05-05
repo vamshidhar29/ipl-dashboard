@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.teamMatch-bg {
+  background-image: linear-gradient(to bottom, #d91c1f, #134189);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 40px;
+  color: #ffffff;
+}
+
+.loader-class {
+  background-image: linear-gradient(to bottom, #d91c1f, #134189);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-img {
+  height: 300px;
+  width: 90vw;
+  margin-bottom: 10px;
+}
+
+.ul-teammatches {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
